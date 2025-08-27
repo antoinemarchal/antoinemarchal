@@ -1,4 +1,7 @@
-## @amarchal -- Radio-astronomer
+## @amarchal -- Atrophysicist & radio astronomer
+
+Welcome to my GitHub page. I am based @LPENS in Paris and I enjoy working on the understanding the structure of the ISM and its link to star formation. 
+These days I am developping an energy-efficient GPU accelerated imager (IViS) that supports mosaicking scalable for large hyper-spcetral cubes from ASKAP and MeerKAT. 
 
 <!--
 **antoinemarchal/antoinemarchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
