@@ -1,7 +1,5 @@
 ## @amarchal -- Astrophysicist & radio astronomer
 
-About me: 
-
 I’m based @LPENS (Paris). 
 - 🔭 I work on the structure of the interstellar medium (ISM) and its role in star formation.
 - 🛫 Before that I was a Fellow @CITA in Canada and then @RSAA/ANU in Australia. 
