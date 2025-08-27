@@ -1,4 +1,4 @@
-<img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/d4c4d7b8-a33c-49b0-967b-700e8e8c1027" />## @amarchal -- Astrophysicist & radio astronomer
+## @amarchal -- Astrophysicist & radio astronomer
 
 About me: 
 
