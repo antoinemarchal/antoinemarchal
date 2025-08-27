@@ -3,12 +3,10 @@
 About me: 
 
 I’m based @LPENS (Paris). 
-
 - 🔭 I work on the structure of the interstellar medium (ISM) and its role in star formation.
 - 🛫 Before that I was a Fellow @CITA in Canada and then @RSAA/ANU in Australia. 
 
 Projects: 
-
 - Right now I’m building IViS 🌱, a GPU-accelerated, energy-efficient imager for scalable mosaicking of large hyperspectral cubes from ASKAP and MeerKAT.
 - I am a member of the GASKAP-HI collaboration. 
 
