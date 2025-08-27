@@ -1,7 +1,13 @@
-## @amarchal -- Astrophysicist & radio astronomer
+<img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/d4c4d7b8-a33c-49b0-967b-700e8e8c1027" />## @amarchal -- Astrophysicist & radio astronomer
 
-Hi, I’m based at LPENS (Paris). I work on the structure of the interstellar medium (ISM) and its role in star formation.
-Before that I was a Fellow @CITA in Canada and then @RSAA/ANU in Australia. 🔭
+About me: 
+
+I’m based @LPENS (Paris). 
+
+🔭 I work on the structure of the interstellar medium (ISM) and its role in star formation.
+🛫 Before that I was a Fellow @CITA in Canada and then @RSAA/ANU in Australia. 
+
+Projects: 
 
 Right now I’m building IViS 🌱, a GPU-accelerated, energy-efficient imager for scalable mosaicking of large hyperspectral cubes from ASKAP and MeerKAT.
 
