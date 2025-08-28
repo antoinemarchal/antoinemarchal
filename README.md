@@ -7,7 +7,6 @@ I’m based @LPENS (Paris).
 Projects: 
 - Right now I’m building IViS 🌱, a GPU-accelerated, energy-efficient imager for scalable mosaicking of large hyperspectral cubes from ASKAP and MeerKAT.
 - I am a member of the GASKAP-HI collaboration.
-- I'm finalizing CAIRO, a spatially/spectrally coherent decomposition tool for IFU data. 
 
 <!--
 **antoinemarchal/antoinemarchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
