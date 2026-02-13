@@ -1,4 +1,4 @@
-## @amarchal -- Astrophysicist & radio astronomer
+## @amarchal -- Astrophysicist & radio astronomer | ANR 2030 Fellow
 
 I’m based @LPENS (Paris). 
 - 🔭 I work on the structure of the interstellar medium (ISM) and its role in star formation.
