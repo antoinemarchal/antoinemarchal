@@ -1,4 +1,4 @@
-## @amarchal -- Astrophysicist & radio astronomer | ANR 2030 Fellow
+## @amarchal -- Astrophysicist & radio astronomer
 
 I’m based @LPENS (Paris). 
 - 🔭 I work on the structure of the interstellar medium (ISM) and its role in star formation.
@@ -7,6 +7,8 @@ I’m based @LPENS (Paris).
 Projects: 
 - Right now I’m building IViS 🌱, a GPU-accelerated, energy-efficient imager for scalable mosaicking of large hyperspectral cubes from ASKAP and MeerKAT.
 - I am a member of the GASKAP-HI collaboration, and a GASKAP builder.
+
+- I am a ANR 2030 Fellow, and a laureate of "Choose France for Science".
 
 <!--
 **antoinemarchal/antoinemarchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
